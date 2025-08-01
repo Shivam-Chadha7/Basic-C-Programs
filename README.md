@@ -12,10 +12,10 @@ Right now, I'm working with:
 
 | File Name           | Description                                  |
 |---------------------|----------------------------------------------|
-| `sum.c`             | Takes two numbers as input and prints their sum |
-| `gross_salary.c`    | Calculates gross salary from basic salary    |
-| `reverse_3digit.c`  | Reverses a 3-digit number like 456 → 654     |
-| `digit_sum_3digit.c`| Adds the digits of a 3-digit number like 456 → 15 |
+| `Del.c`             | Takes two numbers as input and prints their sum |
+| `Del3.c`            | Calculates gross salary from basic salary    |
+| `Del4.c`            | Reverses a 3-digit number like 456 → 654     |
+| `Del5.c`            | Adds the digits of a 3-digit number like 456 → 15 |
 
 ## Notes
 
