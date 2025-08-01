@@ -1,14 +1,33 @@
-# Basic C Programs 👨‍💻
+# Basic C Practice
 
-This repository contains simple beginner-friendly C programs written as part of my programming journey. These programs are intended to help build a strong foundation in C programming.
+This repository contains my early C programs as I learn the language.  
+Right now, I'm working with:
+
+- `printf` and `scanf`
+- Basic algebra operations
+- Reversing 3-digit numbers
+- Summing the digits of a number (limited to fixed length for now)
 
 ## Programs Included
 
-1. **Divisibility Check**  
-   Checks if a number is divisible by a given divisor.
+| File Name           | Description                                  |
+|---------------------|----------------------------------------------|
+| `sum.c`             | Takes two numbers as input and prints their sum |
+| `gross_salary.c`    | Calculates gross salary from basic salary    |
+| `reverse_3digit.c`  | Reverses a 3-digit number like 456 → 654     |
+| `digit_sum_3digit.c`| Adds the digits of a 3-digit number like 456 → 15 |
 
-2. **Gross Salary Calculator**  
-   Calculates gross salary based on basic salary and given percentage allowances.
+## Notes
+
+These programs don’t use loops yet — all logic is done using simple math operations.  
+As I learn more (like loops and conditions), I’ll start adding more advanced programs here.
+
+---
+
+**Learning Progress:**  
+✅ Input/output  
+✅ Math with digits  
+🕒 Loops and conditions — coming soon!
 
 ## How to Use
 
